@@ -17,7 +17,7 @@ This project presents a **logistics performance analysis** dashboard built using
 
 A detailed report is available in the document:
 
-📎 **[Logistics_Report.docx](Logistics_Report.docx)**
+📎 **[Logistics_Report.docx](logistics_report.docx)**
 
 It includes:
 - Project background
