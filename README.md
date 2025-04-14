@@ -7,7 +7,7 @@ This project presents a **logistics performance analysis** dashboard built using
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](Dashboard.png)
-[Power BI File](logistics_dashboard.pbix)
+[Power BI File](Logistics_dashboard.pbix)
 
 *The above dashboard summarizes logistics operations by week, driver, and trip type.*
 
