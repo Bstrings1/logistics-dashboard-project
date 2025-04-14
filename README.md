@@ -6,7 +6,7 @@ This project presents a **logistics performance analysis** dashboard built using
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 *The above dashboard summarizes logistics operations by week, driver, and trip type.*
 
